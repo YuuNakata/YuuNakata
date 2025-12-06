@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://portfolio-ray.is-a.dev/header.png" alt="Banner" width="100%" />
+  <img src=".\header.png" alt="Banner" width="100%" />
 
   <h1 align="center">SYSTEM ONLINE :: NAKATA_</h1>
 
