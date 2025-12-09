@@ -75,7 +75,6 @@ user@terminal:~$ current_status
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yuunakata)](https://git.io/streak-stats)
 
 <div align="center">
   <p>
