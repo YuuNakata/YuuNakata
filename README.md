@@ -75,7 +75,8 @@ user@terminal:~$ current_status
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuuNakata)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yuunakata)](https://git.io/streak-stats)
+
 <div align="center">
   <p>
     <a href="https://portfolio-ray.is-a.dev">Visit Portfolio Mainframe</a>
