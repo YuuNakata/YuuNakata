@@ -6,7 +6,7 @@ I follow SOLID principles, write clean, structured, and well-documented code, an
 My stack includes Python, C#, TypeScript, SQL, PostgreSQL, React, Astro, Blazor, ASP.NET, Tailwind CSS, and GitHub Actions.  
 I work across frontend and backend, designing responsive interfaces, building APIs, and automating workflows with CI/CD.
 
-Beyond coding, I enjoy documenting troubleshooting steps as reusable guides, designing minimalist visuals for apps and portfolios, and experimenting with interactive prototypes using Unity and Godot.
+Beyond coding, I enjoy documenting troubleshooting steps as reusable guides, designing minimalist visuals for apps and proyects, and experimenting with interactive prototypes using Unity and Godot.
 
 Fun facts:
 - Passionate about automation and workflow optimization
