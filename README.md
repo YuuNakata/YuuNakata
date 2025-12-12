@@ -14,4 +14,4 @@ I treat every technical challenge as a chance to learn and teach.
 I value reproducibility and modular design in every project.
 Fluent in Spanish, certified in English (B1).
 
-Hobbies:videogames,draw,anime,build cool things.
+Hobbies: videogames, draw, anime, build cool things.
