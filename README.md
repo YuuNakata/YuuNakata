@@ -8,14 +8,10 @@ I work across frontend and backend, designing responsive interfaces, building AP
 
 Beyond coding, I enjoy documenting troubleshooting steps as reusable guides, designing minimalist visuals for apps and proyects, and experimenting with interactive prototypes using Unity and Godot.
 
-Fun facts:
-- Passionate about automation and workflow optimization
-- Experienced in competitive programming and algorithmic problem-solving
-- I treat every technical challenge as a chance to learn and teach
-- I value reproducibility and modular design in every project
-- Fluent in Spanish, certified in English (B1)
+Passionate about automation and workflow optimization.
+Experienced in competitive programming and algorithmic problem-solving.
+I treat every technical challenge as a chance to learn and teach.
+I value reproducibility and modular design in every project.
+Fluent in Spanish, certified in English (B1).
 
-📫 raidel.reuco@gmail.com  
-🌐 [portfolio-ray.is-a.dev](https://portfolio-ray.is-a.dev)  
-💻 [YuuNakata](https://github.com/YuuNakata)  
-🔗 [LinkedIn](https://www.linkedin.com/in/raydel-ernesto-reuco)
+Hobbies:videogames,draw,anime,build cool things.
